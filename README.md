@@ -1,9 +1,11 @@
 # Mercedes_Case
 Repository for Mercedes case modelling work. It contains all code and explanations on how to generate the test set sent through email.
 
+
 **Project name:**		Mercedes Case 
 **Date:**        		2023-Oct-08  
 **Author:**      		Sandra López  
+
 
 ## Repository structure
 
